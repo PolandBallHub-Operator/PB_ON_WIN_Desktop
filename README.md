@@ -1,4 +1,4 @@
-# PolandBall Desktop App
+# PB Desktop App
 
 このアプリは、デスクトップ上にPBを表示し、物理演算によって転がしたり、マウスでドラッグして投げたりできるWindows用ネイティブアプリケーションです。
 
